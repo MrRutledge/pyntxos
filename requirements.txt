@@ -2,3 +2,12 @@ ipywidgets
 folium
 voila
 jupyter
+requests
+bs4
+pytest
+geopy
+networkx
+
+
+
+
